@@ -1,0 +1,15 @@
+.bolder {
+  font-weight: bolder;
+  font-size: 25px;
+}
+#list {
+  color: aqua;
+}
+.socks img {
+  width: 200px;
+  height: 200px;
+}
+h1 {
+  background-color: cadetblue;
+  text-align: center;
+}
